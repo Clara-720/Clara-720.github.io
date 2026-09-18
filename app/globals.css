@@ -410,8 +410,8 @@ section { width: 100%; }
 }
 
 /* Keep the resume action visibly available on the cobalt hero surface. */
-#top .button-secondary { border-color: rgba(255, 255, 255, .58); color: white; }
-#top .button-secondary:hover { background: rgba(255, 255, 255, .12); }
+#top .button-secondary { background: rgba(23, 33, 43, .7); border-color: #fff; color: #fff; }
+#top .button-secondary:hover { background: rgba(255, 255, 255, .16); }
 
 /* Give the experience label its own breathing room and let the hero copy run wider. */
 @media (min-width: 761px) {
