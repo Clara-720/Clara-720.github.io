@@ -450,5 +450,8 @@ section { width: 100%; }
 .role-detail-block h4,
 .side-project-inline > span,
 .contact-links a > span:first-child { font-size: var(--subhead-size); letter-spacing: .04em; }
+.skill-block h3,
+.case-grid span,
+.role-detail-block h4 { font-weight: 700; }
 .project-status { font-size: clamp(.9rem, 1.1vw, 1rem); line-height: 1.35; }
 .text-link-light { display: flex; width: max-content; margin-right: auto; margin-left: auto; }
