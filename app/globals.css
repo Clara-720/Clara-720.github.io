@@ -358,7 +358,7 @@ section { width: 100%; }
 #skills .coursework { border-top-color: var(--line); }
 #skills .coursework strong { color: var(--cobalt); }
 #skills .coursework span { color: var(--muted); }
-#skills > .section-label { transform: translateX(-2.5rem); }
+#skills > .section-label { transform: translateX(-5rem); }
 
 #project { background: var(--night); color: #eff4f6; }
 #project .section-label, #project .project-status, #project .project-figures-label, #project .case-grid span { color: var(--blue-ink); }
