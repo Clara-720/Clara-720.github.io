@@ -7,7 +7,8 @@
   },
   "scripts": {
     "dev": "vinext dev",
-    "build": "vinext build",
+    "build": "vite build --config vite.github.config.ts",
+    "build:vinext": "vinext build",
     "start": "vinext start",
     "test": "npm run build",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next"

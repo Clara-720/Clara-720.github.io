@@ -1,4 +1,6 @@
 :root {
+  --font-geist-sans: "Helvetica Neue", Arial, sans-serif;
+  --font-geist-mono: "SFMono-Regular", Consolas, monospace;
   --paper: #fbfbf8;
   --paper-deep: #f1f3f2;
   --ink: #17212b;
