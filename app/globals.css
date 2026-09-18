@@ -358,7 +358,7 @@ section { width: 100%; }
 #skills .coursework { border-top-color: var(--line); }
 #skills .coursework strong { color: var(--cobalt); }
 #skills .coursework span { color: var(--muted); }
-#skills > .section-label { transform: translateX(-5rem); }
+#skills > .section-label { transform: translate(-8rem, .45rem); }
 
 #project { background: var(--night); color: #eff4f6; }
 #project .section-label, #project .project-status, #project .project-figures-label, #project .case-grid span { color: var(--blue-ink); }
@@ -408,6 +408,10 @@ section { width: 100%; }
   #project .case-grid article:last-child { display: block; }
   #project .case-grid article:last-child p { margin-top: .55rem; }
 }
+
+/* Keep the resume action visibly available on the cobalt hero surface. */
+#top .button-secondary { border-color: rgba(255, 255, 255, .58); color: white; }
+#top .button-secondary:hover { background: rgba(255, 255, 255, .12); }
 
 /* Give the experience label its own breathing room and let the hero copy run wider. */
 @media (min-width: 761px) {
