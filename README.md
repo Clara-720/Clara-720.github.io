@@ -2,6 +2,8 @@
 
 Personal portfolio for Mingjing Hou, a Linguistic Data Science master's student in Bochum working across NLP, data analysis, visualisation and digital marketing.
 
+[View the live portfolio →](https://mingjing-hou-portfolio.vast-wasp-0163.chatgpt.site)
+
 The site is bilingual (German / English) and brings together a research project on narrative representation and audience reception, professional experience at TTI Asia and Unilever, selected methods, education and contact details.
 
 ## Highlights
